@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 5 Quality code Part 1\Exercise_1\Exercise_2\bin\Debug\Exercise_2.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 5 Quality code Part 1\Exercise_1\Exercise_2\bin\Debug\Exercise_2.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 5 Quality code Part 1\Exercise_1\Exercise_2\bin\Debug\Exercise_2.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 5 Quality code Part 1\Exercise_1\Exercise_2\obj\Debug\Exercise_2.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 5 Quality code Part 1\Exercise_1\Exercise_2\obj\Debug\Exercise_2.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 5 Quality code Part 1\Exercise_1\Exercise_2\obj\Debug\Exercise_2.pdb

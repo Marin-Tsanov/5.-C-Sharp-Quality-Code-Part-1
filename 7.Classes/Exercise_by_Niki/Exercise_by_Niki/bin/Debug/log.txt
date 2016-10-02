@@ -1,0 +1,5 @@
+report loaded
+header
+content
+footer
+data printed

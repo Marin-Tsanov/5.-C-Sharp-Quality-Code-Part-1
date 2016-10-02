@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.ControlFlow,CondSt,Loops", "5.ControlFlow,CondSt,Loops\5.ControlFlow,CondSt,Loops.csproj", "{F145F7C3-3B64-4BBD-90C9-5F2DAD640A2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2", "Task2\Task2.csproj", "{01E3E169-7D46-49D0-A93D-2CF199FE0E04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3", "Task\Task3.csproj", "{C55DBF2C-1D49-4D61-8FE6-6F3598F05869}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F145F7C3-3B64-4BBD-90C9-5F2DAD640A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F145F7C3-3B64-4BBD-90C9-5F2DAD640A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F145F7C3-3B64-4BBD-90C9-5F2DAD640A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F145F7C3-3B64-4BBD-90C9-5F2DAD640A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01E3E169-7D46-49D0-A93D-2CF199FE0E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E3E169-7D46-49D0-A93D-2CF199FE0E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E3E169-7D46-49D0-A93D-2CF199FE0E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E3E169-7D46-49D0-A93D-2CF199FE0E04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C55DBF2C-1D49-4D61-8FE6-6F3598F05869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C55DBF2C-1D49-4D61-8FE6-6F3598F05869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C55DBF2C-1D49-4D61-8FE6-6F3598F05869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C55DBF2C-1D49-4D61-8FE6-6F3598F05869}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

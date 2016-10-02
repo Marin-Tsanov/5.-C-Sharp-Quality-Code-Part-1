@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 5 Quality code Part 1\04.CodeDocumentationAndComments\04.CodeDocumentationAndComments\bin\Debug\04.CodeDocumentationAndComments.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 5 Quality code Part 1\04.CodeDocumentationAndComments\04.CodeDocumentationAndComments\obj\Debug\04. Code Documentation and Comments.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 5 Quality code Part 1\04.CodeDocumentationAndComments\04.CodeDocumentationAndComments\obj\Debug\04.CodeDocumentationAndComments.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 5 Quality code Part 1\04.CodeDocumentationAndComments\04.CodeDocumentationAndComments\bin\Debug\04.CodeDocumentationAndComments.XML
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 5 Quality code Part 1\04.CodeDocumentationAndComments\04.CodeDocumentationAndComments\bin\Debug\04.CodeDocumentationAndComments.dll
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 5 Quality code Part 1\04.CodeDocumentationAndComments\04.CodeDocumentationAndComments\obj\Debug\04.CodeDocumentationAndComments.dll

@@ -1,0 +1,7 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 5 Quality code Part 1\Exercise_1\Homework\bin\Debug\Homework.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 5 Quality code Part 1\Exercise_1\Homework\bin\Debug\PowerCollections.dll
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 5 Quality code Part 1\Exercise_1\Homework\bin\Debug\PowerCollections.xml
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 5 Quality code Part 1\Exercise_1\Homework\obj\Debug\Homework.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 5 Quality code Part 1\Exercise_1\Homework\obj\Debug\Homework.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 5 Quality code Part 1\Exercise_1\Homework\bin\Debug\Homework.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 5 Quality code Part 1\Exercise_1\Homework\obj\Debug\Homework.exe

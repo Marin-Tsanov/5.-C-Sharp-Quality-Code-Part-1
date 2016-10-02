@@ -1,0 +1,3 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 5 Quality code Part 1\2.Naming_Identifiers\Task4_DEMO\bin\Debug\Task4_DEMO.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 5 Quality code Part 1\2.Naming_Identifiers\Task4_DEMO\obj\Debug\Task4_DEMO.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 5 Quality code Part 1\2.Naming_Identifiers\Task4_DEMO\obj\Debug\Task4_DEMO.pdb

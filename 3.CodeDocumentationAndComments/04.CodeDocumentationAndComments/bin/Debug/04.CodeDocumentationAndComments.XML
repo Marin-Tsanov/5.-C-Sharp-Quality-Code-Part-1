@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>04.CodeDocumentationAndComments</name>
+    </assembly>
+    <members>
+        <member name="T:Telerik.ILS.Common.StringExtensions">
+            <summary>
+            This class contains methods for string manipulation.
+            </summary>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToMd5Hash(System.String)">
+            <summary>
+            This method performs string convertion of the input string to a hash.
+            </summary>
+            <return> Hash is in format hexadecimal string.</return>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToBoolean(System.String)">
+            <summary>
+            This method checks, if string contains any of the given string array elements.
+            </summary>
+            <return> True, if the string contains any of the given string array elements
+            and False, if it does not contain </return>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToShort(System.String)">
+            <summary>
+            This method checks, if string is valid short number.
+            </summary>
+            <return> String in format short, if it is valid short number. </return>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToInteger(System.String)">
+            <summary>
+            This method checks, if string is valid int number.
+            </summary>
+            <return> String in format int, if it is valid int number. </return>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToLong(System.String)">
+            <summary>
+            This method checks, if string is valid long number.
+            </summary>
+            <return> String in format long, if it is valid long number. </return>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToDateTime(System.String)">
+            <summary>
+            This method checks, if string is valid DateTime.
+            </summary>
+            <return> String in format DateTime, if it is valid DateTime value. </return>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.CapitalizeFirstLetter(System.String)">
+            <summary>
+            This method transforms the string's first letter to a capital letter.
+            </summary>
+            <return> String with first capital letter. </return>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.GetStringBetween(System.String,System.String,System.String,System.Int32)">
+            <summary>
+            This method gets the string between two other strings.
+            </summary>
+            <return> 1. In case input string does not contain startString or endString , returns empty string. 
+                    2. The string between two strings as a string.      </return> 
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ConvertCyrillicToLatinLetters(System.String)">
+            <summary>
+            This method converts string with cyrillic letters to a string with latin letters.
+            </summary>
+            <param name="input"> Insert string with cyrillic letters. </param>
+            <return> String with latin letters. </return> 
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ConvertLatinToCyrillicKeyboard(System.String)">
+            <summary>
+            This method converts string with latin letters to a string with cyrillic letters.
+            </summary>
+            <param name="input"> Insert string with latin letters. </param>
+            <return> String with cyrillic letters. </return> 
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToValidUsername(System.String)">
+            <summary>
+            This method converts string with cyrillic letters to a string with latin letters and removes all characters from the string different from "a - z", "A - Z", "0-9","_\." .
+            </summary>
+            <param name="input"> Insert string with cyrillic or cyrillic and latin letters,numbers and symbols. </param>
+            <return> String with latin letters, numbers and symbols. </return> 
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToValidLatinFileName(System.String)">
+            <summary>
+            This method converts string with cyrillic letters to a string with latin letters, converts " " with "-" and removes all characters from the string different from "a - z", "A - Z", "0-9","_\." .
+            </summary>
+            <param name="input"> Insert string with cyrillic or cyrillic and latin letters,numbers and symbols. </param>
+            <return> String with latin letters, numbers and symbols. </return>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.GetFirstCharacters(System.String,System.Int32)">
+            <summary>
+            This method extracts substring from the string starting from the beginning of the string, the extracted substring's lenght is equal to the number inputed for the parameter charsCount.
+            </summary>
+            <param name="input"> Insert string. </param>
+            <param name="charsCount"> Insert valid integer number. </param>
+            <return> Substring with the given lenght or the whole string, if the charsCount number is bigger than string's lenght. </return>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.GetFileExtension(System.String)">
+            <summary>
+            This method splits the string into an array of strings by dot ".".
+            </summary>
+            <return> 1. Returns "" empty string, if string is null, whiteSpace or the last item in the array is not a string. 
+                     2. String with no white spaces in the beginning or the end and with lowercase letters. </return>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToContentType(System.String)">
+            <summary>
+            This method checks,if string's value matches with a key value from the dictionary.
+            </summary>
+            <return> 1. If string's value matches with a key value from the dictionary, the content from the key is returned. 
+                     2. When no match is found the string "application/octet-stream" is returned. </return>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToByteArray(System.String)">
+            <summary>
+            This method creates a byte array with number of bytes equal to input.Length * sizeof(char).
+            </summary>
+            <return> Byte array with the string's bytes. </return>
+        </member>
+    </members>
+</doc>
